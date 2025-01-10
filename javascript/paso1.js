@@ -1,12 +1,12 @@
 /* // esto es un comentario 
 
 
-/*  bloq
+/* bloq
 
 */
 
 
-/* console.log("hola clase")
+console.log("hola clase")
 console.log("hola clase")
 console.log("hola clase")
 console.log("hola clase")
@@ -18,7 +18,7 @@ console.log("hola clase")
 console.log("hola clase")
 
 
- */
+
 
 
 var usuario = "Radoi";
